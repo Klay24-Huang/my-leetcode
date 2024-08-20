@@ -5,7 +5,7 @@ This repository contains my solutions to various LeetCode problems. The solution
 ### C#
 The `C#` directory contains solutions written in C#. These solutions demonstrate the use of .NET framework features, object-oriented programming principles, and efficient algorithms.
 
-### Node.js
+### Javascript
 The `Javascript` directory includes solutions implemented in JavaScript, using Node.js for execution. These solutions highlight the use of standard algorithmic techniques in JavaScript.
 
 ### Python
