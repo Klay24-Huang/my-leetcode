@@ -14,11 +14,11 @@ namespace All._2491._Divide_Players_Into_Teams_of_Equal_Skill
 
             long standardValue = skill[0] + skill[^1];
             long answer = skill[0] * skill[^1];
-            Console.WriteLine(standardValue);
+            //Console.WriteLine(standardValue);
             for (int i = 1; i < skill.Length/2; i++)
             {
                 long tempValue = skill[i] + skill[skill.Length-1-i];
-                Console.WriteLine(tempValue);
+                //Console.WriteLine(tempValue);
                 if (tempValue != standardValue)
                 {
                     return -1;
